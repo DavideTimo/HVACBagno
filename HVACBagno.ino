@@ -106,7 +106,6 @@ void stato3()
     {
         machineState2 = 0;
         Timer3.ResetT();
-        Timer6.IsExpired();
     } 
     
 }
